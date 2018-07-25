@@ -11,8 +11,8 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "discord.js": "^11.3.2",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "discord.js": "^11.3.2"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/hello-express"
@@ -21,6 +21,6 @@
   "keywords": [
     "node",
     "glitch",
-    "express"
+    "discord"
   ]
 }
